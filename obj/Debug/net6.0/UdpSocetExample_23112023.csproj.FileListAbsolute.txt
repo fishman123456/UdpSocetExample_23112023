@@ -1,0 +1,14 @@
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\bin\Debug\net6.0\UdpSocetExample_23112023.exe
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\bin\Debug\net6.0\UdpSocetExample_23112023.deps.json
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\bin\Debug\net6.0\UdpSocetExample_23112023.runtimeconfig.json
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\bin\Debug\net6.0\UdpSocetExample_23112023.dll
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\bin\Debug\net6.0\UdpSocetExample_23112023.pdb
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\obj\Debug\net6.0\UdpSocetExample_23112023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\obj\Debug\net6.0\UdpSocetExample_23112023.AssemblyInfoInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\obj\Debug\net6.0\UdpSocetExample_23112023.AssemblyInfo.cs
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\obj\Debug\net6.0\UdpSocetExample_23112023.csproj.CoreCompileInputs.cache
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\obj\Debug\net6.0\UdpSocetExample_23112023.dll
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\obj\Debug\net6.0\refint\UdpSocetExample_23112023.dll
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\obj\Debug\net6.0\UdpSocetExample_23112023.pdb
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\obj\Debug\net6.0\UdpSocetExample_23112023.genruntimeconfig.cache
+C:\Users\Fishman_1\Documents\GitHub\UdpSocetExample_23112023\obj\Debug\net6.0\ref\UdpSocetExample_23112023.dll
